@@ -1,10 +1,10 @@
 #
 # xmindTool.py
-# @author yanchunhuo
+# @author tailai01
 # @description 
 # @created 2020-03-26T10:34:23.914Z+08:00
 # @last-modified 2021-03-24T09:42:14.543Z+08:00
-# @github https://github.com/yanchunhuo
+# @github https://github.com/tailai01
 
 from pojo.xmind.xmindData import XmindData
 from pojo.xmind.sheet import Sheet

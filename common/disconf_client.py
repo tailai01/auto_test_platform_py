@@ -1,6 +1,6 @@
-# @Author  : yanchunhuo
+# @Author  : tailai01
 # @Time    : 2020/7/21 10:24
-# github https://github.com/yanchunhuo
+# github https://github.com/tailai01
 from common.httpclient.doRequest import DoRequest
 import ujson
 

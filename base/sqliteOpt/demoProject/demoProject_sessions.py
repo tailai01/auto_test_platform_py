@@ -1,10 +1,10 @@
 #
 # demoProject_sessions.py
-# @author yanchunhuo
+# @author tailai01
 # @description 
 # @created 2022-07-25T19:32:07.806Z+08:00
 # @last-modified 2022-07-25T19:58:23.123Z+08:00
-# github https://github.com/yanchunhuo
+# github https://github.com/tailai01
 
 
 from common.sqlalchemy_tools.sqlalchemy_sqlite_tool import SQLAlchemy_Sqlite_Tool

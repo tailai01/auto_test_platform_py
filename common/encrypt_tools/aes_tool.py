@@ -1,10 +1,10 @@
 #
 # aes_tool.py
-# @author yanchunhuo
+# @author tailai01
 # @description 
 # @created 2021-09-06T18:28:10.458Z+08:00
 # @last-modified 2023-09-05T18:11:41.678Z+08:00
-# github https://github.com/yanchunhuo
+# github https://github.com/tailai01
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import pad,unpad
 import base64

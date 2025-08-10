@@ -1,8 +1,8 @@
 #
 # custom_multiprocessing.py
-# @author yanchunhuo
+# @author tailai01
 # @description 
-# @github https://github.com/yanchunhuo
+# @github https://github.com/tailai01
 # @created 2022-08-20T17:27:14.632Z+08:00
 # @last-modified 2022-11-07T19:44:59.558Z+08:00
 # 

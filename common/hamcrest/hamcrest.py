@@ -1,8 +1,8 @@
 #
 # hamcrest.py
-# @author yanchunhuo
+# @author tailai01
 # @description 
-# @github https://github.com/yanchunhuo
+# @github https://github.com/tailai01
 # @created 2022-11-08T18:13:31.156Z+08:00
 # @last-modified 2022-11-09T17:04:40.225Z+08:00
 #

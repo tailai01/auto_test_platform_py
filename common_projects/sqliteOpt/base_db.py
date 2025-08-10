@@ -1,10 +1,10 @@
 #
 # base_db.py
-# @author yanchunhuo
+# @author tailai01
 # @description 
 # @created 2022-08-04T09:52:09.525Z+08:00
 # @last-modified 2023-03-28T13:14:23.295Z+08:00
-# github https://github.com/yanchunhuo
+# github https://github.com/tailai01
 
 class Base_DB:
     def __init__(self,db_session,model) -> None:

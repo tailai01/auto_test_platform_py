@@ -1,6 +1,6 @@
-# @Author  : yanchunhuo
+# @Author  : tailai01
 # @Time    : 2020/7/23 17:14
- # github https://github.com/yanchunhuo
+ # github https://github.com/tailai01
 from pojo.report_config import Report_Config
 import configparser as ConfigParser
 

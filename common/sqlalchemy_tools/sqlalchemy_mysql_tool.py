@@ -1,10 +1,10 @@
 #
 # sqlalchemy_mysql_tool.py
-# @author yanchunhuo
+# @author tailai01
 # @description 
 # @created 2022-07-21T18:07:28.086Z+08:00
 # @last-modified 2022-07-25T19:58:02.887Z+08:00
-# github https://github.com/yanchunhuo
+# github https://github.com/tailai01
 
 from sqlalchemy import create_engine
 from sqlalchemy.orm import scoped_session

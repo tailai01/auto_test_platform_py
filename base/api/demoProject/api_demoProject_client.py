@@ -1,7 +1,7 @@
 # -*- coding:utf8 -*-
-# 作者 yanchunhuo
+# 作者 tailai01
 # 创建时间 2018/01/19 22:36
-# github https://github.com/yanchunhuo
+# github https://github.com/tailai01
 from base.api.demoProject.api_demoProject_read_config import API_DemoProject_Read_Config
 from base.api.demoProject.api_demoProject_db_clients import API_DemoProject_DB_Clients
 from common.httpclient.doRequest import DoRequest

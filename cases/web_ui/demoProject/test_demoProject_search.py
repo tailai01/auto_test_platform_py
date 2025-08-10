@@ -1,7 +1,7 @@
 # -*- coding:utf8 -*-
-# 作者 yanchunhuo
+# 作者 tailai01
 # 创建时间 2018/01/19 22:36
-# github https://github.com/yanchunhuo
+# github https://github.com/tailai01
 from base.web_ui.demoProject.web_ui_demoProject_client import WEB_UI_DemoProject_Client
 from page_objects.web_ui.demoProject.pages.indexPage import IndexPage
 from common.hamcrest.hamcrest import assert_that

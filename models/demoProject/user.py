@@ -1,10 +1,10 @@
 #
 # user.py
-# @author yanchunhuo
+# @author tailai01
 # @description 
 # @created 2022-07-25T19:51:16.167Z+08:00
 # @last-modified 2022-07-25T19:56:52.705Z+08:00
-# github https://github.com/yanchunhuo
+# github https://github.com/tailai01
 
 
 from sqlalchemy import Column, Integer, Text

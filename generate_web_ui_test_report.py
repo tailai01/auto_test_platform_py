@@ -1,8 +1,8 @@
 #
 # generate_web_ui_test_report.py
-# @author yanchunhuo
+# @author tailai01
 # @description 
-# @github https://github.com/yanchunhuo
+# @github https://github.com/tailai01
 # @created 2021-04-13T10:59:18.033Z+08:00
 # @last-modified 2023-03-27T18:20:43.976Z+08:00
 #

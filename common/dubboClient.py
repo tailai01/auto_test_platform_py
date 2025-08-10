@@ -1,7 +1,7 @@
 #-*- coding:utf8 -*-
-# 作者 yanchunhuo
+# 作者 tailai01
 # 创建时间 2018/01/19 22:36
-# github https://github.com/yanchunhuo
+# github https://github.com/tailai01
 from common.java.javaTools import StartJpypeJVM
 import jpype
 import ujson
@@ -17,7 +17,7 @@ class DubboClient:
         """
         # 启动jvm......'
         StartJpypeJVM()
-        self. _DubboClient=jpype.JClass("com.yanchunhuo.tools.DubboClient")
+        self. _DubboClient=jpype.JClass("com.tailai01.tools.DubboClient")
         self._dubboClient=self._DubboClient(registryAddresses,protocol,group)
 
     def request(self,requestInterfaceClassName,requestMethod,params,is_return_dict=True,version=None):

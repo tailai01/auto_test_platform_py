@@ -1,7 +1,7 @@
 #-*- coding:utf8 -*-
-# 作者 yanchunhuo
+# 作者 tailai01
 # 创建时间 2018/01/19 22:36
-# github https://github.com/yanchunhuo
+# github https://github.com/tailai01
 from base.web_ui.demoProject.web_ui_demoProject_read_config import WEB_UI_DemoProject_Read_Config
 
 class DemoProjectInit:

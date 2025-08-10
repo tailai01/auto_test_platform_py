@@ -1,10 +1,10 @@
 #
 # sm_tool.py
-# @author yanchunhuo
+# @author tailai01
 # @description 
 # @created 2021-09-06T17:01:21.635Z+08:00
 # @last-modified 2022-01-20T11:54:15.278Z+08:00
-# github https://github.com/yanchunhuo
+# github https://github.com/tailai01
 from common.encrypt_tools.gmssl.sm2 import CryptSM2
 from common.encrypt_tools.gmssl.sm4 import CryptSM4
 from common.encrypt_tools.gmssl.sm4 import SM4_ENCRYPT

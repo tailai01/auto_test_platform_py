@@ -1,4 +1,4 @@
-# @Author  : yanchunhuo
+# @Author  : tailai01
 # @Time    : 2020/7/15 17:30
 
 class Mitmproxy_Config:

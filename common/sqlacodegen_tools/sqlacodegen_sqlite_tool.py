@@ -1,10 +1,10 @@
 #
 # sqlacodegen_sqlite_tool.py
-# @author yanchunhuo
+# @author tailai01
 # @description 
 # @created 2022-07-25T19:23:33.845Z+08:00
 # @last-modified 2022-07-25T19:57:36.776Z+08:00
-# github https://github.com/yanchunhuo
+# github https://github.com/tailai01
 
 import platform
 import subprocess

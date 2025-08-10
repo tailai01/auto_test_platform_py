@@ -1,6 +1,6 @@
-# @Author  : yanchunhuo
+# @Author  : tailai01
 # @Time    : 2020/7/15 17:43
-# github https://github.com/yanchunhuo
+# github https://github.com/tailai01
 from base.read_mitmproxy_config import Read_Mitmproxy_Config
 from common.dateTimeTool import DateTimeTool
 from common.strTool import StrTool

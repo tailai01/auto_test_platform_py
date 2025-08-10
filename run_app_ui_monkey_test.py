@@ -1,10 +1,10 @@
 #
 # run_app_ui_monkey_test.py
-# @author yanchunhuo
+# @author tailai01
 # @description 
 # @created 2021-05-20T17:15:52.185Z+08:00
 # @last-modified 2021-09-26T18:22:40.222Z+08:00
-# github https://github.com/yanchunhuo
+# github https://github.com/tailai01
 from common.dateTimeTool import DateTimeTool
 from common.pytest import deal_pytest_ini_file
 import argparse

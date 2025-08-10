@@ -1,9 +1,9 @@
 # gitlab_client.py
-# @author yanchunhuo
+# @author tailai01
 # @description 
 # @created 2021-04-25T15:04:47.417Z+08:00
 # @last-modified 2023-05-12T11:10:52.530Z+08:00
-# github https://github.com/yanchunhuo
+# github https://github.com/tailai01
 from common.httpclient.doRequest import DoRequest
 from urllib.parse import urljoin
 import ujson

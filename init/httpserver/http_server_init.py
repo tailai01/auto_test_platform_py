@@ -1,6 +1,6 @@
-# @Author  : yanchunhuo
+# @Author  : tailai01
 # @Time    : 2020/1/19 14:33
-# github https://github.com/yanchunhuo
+# github https://github.com/tailai01
 from base.read_httpserver_config import Read_Http_Server_Config
 from common.dateTimeTool import DateTimeTool
 from common.strTool import StrTool

@@ -1,10 +1,10 @@
 #
 # monkey_client.py
-# @author yanchunhuo
+# @author tailai01
 # @description 
 # @created 2021-05-18T21:08:38.694Z+08:00
 # @last-modified 2021-06-09T21:51:42.306Z+08:00
-# github https://github.com/yanchunhuo
+# github https://github.com/tailai01
 from common.dateTimeTool import DateTimeTool
 import platform
 import subprocess

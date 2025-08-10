@@ -1,6 +1,6 @@
-# 作者 yanchunhuo
+# 作者 tailai01
 # 创建时间 2020/2/26 10:00
-# github https://github.com/yanchunhuo
+# github https://github.com/tailai01
 from skimage.metrics import structural_similarity
 import cv2
 

@@ -1,7 +1,7 @@
 #-*- coding:utf8 -*-
-# 作者 yanchunhuo
+# 作者 tailai01
 # 创建时间 2018/01/19 22:36
-# github https://github.com/yanchunhuo
+# github https://github.com/tailai01
 from base.read_web_ui_config import Read_WEB_UI_Config
 from selenium import webdriver
 from selenium.webdriver.ie import webdriver as ie_webdriver

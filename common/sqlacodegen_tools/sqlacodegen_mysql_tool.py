@@ -1,10 +1,10 @@
 #
 # sqlacodegen_too.py
-# @author yanchunhuo
+# @author tailai01
 # @description 
 # @created 2022-07-21T17:00:26.678Z+08:00
 # @last-modified 2022-07-25T19:57:33.428Z+08:00
-# github https://github.com/yanchunhuo
+# github https://github.com/tailai01
 import platform
 import subprocess
 

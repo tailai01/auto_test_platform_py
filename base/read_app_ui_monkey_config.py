@@ -1,10 +1,10 @@
 #
 # read_app_ui_monkey_config.py
-# @author yanchunhuo
+# @author tailai01
 # @description 
 # @created 2021-05-18T20:41:36.200Z+08:00
 # @last-modified 2021-05-20T18:03:06.125Z+08:00
-# github https://github.com/yanchunhuo
+# github https://github.com/tailai01
 
 from pojo.app_ui_monkey_config import APP_UI_Monkey_Config
 import configparser as ConfigParser

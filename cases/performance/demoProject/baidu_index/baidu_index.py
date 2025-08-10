@@ -1,4 +1,4 @@
-# @Author  : yanchunhuo
+# @Author  : tailai01
 # @Time    : 2020/1/6 9:37
 from locust import TaskSet,task,between
 from locust.contrib.fasthttp import FastHttpLocust

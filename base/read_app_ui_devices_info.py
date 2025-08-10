@@ -1,6 +1,6 @@
-# 作者 yanchunhuo
+# 作者 tailai01
 # 创建时间 2019/12/26 11:15
-# github https://github.com/yanchunhuo
+# github https://github.com/tailai01
 from pojo.app_ui_devices_info import APP_UI_Devices_Info
 import configparser as ConfigParser
 
