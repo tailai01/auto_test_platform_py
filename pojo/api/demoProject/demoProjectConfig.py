@@ -1,9 +1,9 @@
-#-*- coding:utf8 -*-
+# -*- coding:utf8 -*-
 # 作者 tailai01
 # 创建时间 2018/01/19 22:36
 # github https://github.com/tailai01
 class DemoProjectConfig:
     def __init__(self):
-        self.url=None
+        self.url = None
 
-        self.init=None
+        self.init = None
