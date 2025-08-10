@@ -1,5 +1,5 @@
 # -*- coding:utf8 -*-
-# 作者 tailai01
+# 作者 mingtai
 # 创建时间 2018/01/19 22:36
 # github https://github.com/tailai01
 from base.app_ui.android.demoProject.app_ui_android_demoProject_client import APP_UI_Android_demoProject_Client

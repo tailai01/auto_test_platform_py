@@ -1,5 +1,5 @@
 #-*- coding:utf-8 -*-
-# 作者 tailai01
+# 作者 mingtai
 # 创建时间 2018/01/19 22:36
 # github https://github.com/tailai01
 from page_objects.web_ui.demoProject.elements.searchPageElements import SearchPageElements

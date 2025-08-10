@@ -1,4 +1,4 @@
-# 作者 tailai01
+# 作者 mingtai
 # 创建时间 2019/12/26 9:17
 # github https://github.com/tailai01
 from base.read_httpserver_config import Read_Http_Server_Config

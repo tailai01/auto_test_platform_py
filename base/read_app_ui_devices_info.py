@@ -1,4 +1,4 @@
-# 作者 tailai01
+# 作者 mingtai
 # 创建时间 2019/12/26 11:15
 # github https://github.com/tailai01
 from pojo.app_ui_devices_info import APP_UI_Devices_Info
