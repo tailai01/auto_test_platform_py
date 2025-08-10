@@ -1,6 +1,6 @@
 #
 # aliyun_mns_client.py
-# @author tailai01
+# @author mingtai
 # @description 
 # @created 2022-05-11T15:21:50.951Z+08:00
 # @last-modified 2022-05-11T20:12:06.029Z+08:00

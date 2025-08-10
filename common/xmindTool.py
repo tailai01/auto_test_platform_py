@@ -1,6 +1,6 @@
 #
 # xmindTool.py
-# @author tailai01
+# @author mingtai
 # @description 
 # @created 2020-03-26T10:34:23.914Z+08:00
 # @last-modified 2021-03-24T09:42:14.543Z+08:00

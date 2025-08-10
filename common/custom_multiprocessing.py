@@ -1,6 +1,6 @@
 #
 # custom_multiprocessing.py
-# @author tailai01
+# @author mingtai
 # @description 
 # @github https://github.com/tailai01
 # @created 2022-08-20T17:27:14.632Z+08:00

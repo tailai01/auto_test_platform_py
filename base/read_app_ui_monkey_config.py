@@ -1,6 +1,6 @@
 #
 # read_app_ui_monkey_config.py
-# @author tailai01
+# @author mingtai
 # @description 
 # @created 2021-05-18T20:41:36.200Z+08:00
 # @last-modified 2021-05-20T18:03:06.125Z+08:00

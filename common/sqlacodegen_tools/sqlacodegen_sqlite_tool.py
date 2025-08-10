@@ -1,6 +1,6 @@
 #
 # sqlacodegen_sqlite_tool.py
-# @author tailai01
+# @author mingtai
 # @description 
 # @created 2022-07-25T19:23:33.845Z+08:00
 # @last-modified 2022-07-25T19:57:36.776Z+08:00

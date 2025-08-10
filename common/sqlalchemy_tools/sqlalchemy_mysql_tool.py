@@ -1,6 +1,6 @@
 #
 # sqlalchemy_mysql_tool.py
-# @author tailai01
+# @author mingtai
 # @description 
 # @created 2022-07-21T18:07:28.086Z+08:00
 # @last-modified 2022-07-25T19:58:02.887Z+08:00

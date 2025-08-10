@@ -1,6 +1,6 @@
 #
 # generate_web_ui_test_report.py
-# @author tailai01
+# @author mingtai
 # @description 
 # @github https://github.com/tailai01
 # @created 2021-04-13T10:59:18.033Z+08:00

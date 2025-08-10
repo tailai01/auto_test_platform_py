@@ -1,6 +1,6 @@
 #
 # sqlalchemy_sqlite_tool.py
-# @author tailai01
+# @author mingtai
 # @description 
 # @created 2022-07-25T19:11:48.078Z+08:00
 # @last-modified 2022-07-25T19:58:05.872Z+08:00

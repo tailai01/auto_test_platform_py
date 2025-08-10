@@ -1,6 +1,6 @@
 #
 # run_app_ui_monkey_test.py
-# @author tailai01
+# @author mingtai
 # @description 
 # @created 2021-05-20T17:15:52.185Z+08:00
 # @last-modified 2021-09-26T18:22:40.222Z+08:00
